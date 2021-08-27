@@ -11,15 +11,11 @@
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
   {% endif %}
-  </div>
   <div class="price">
   {% if entry.price %}
-    {% if site.data.venues[entry.price] %}
-    <price class="badge"><a href="{{site.data.venues[entry.price].url}}" target="_blank">{{entry.price}}</a></price>
-    {% else %}
-    <price class="badge">{{entry.price}}</price>
-    {% endif %}
+  <price class="badge">{{entry.price}}</price>
   {% endif %}
+   </div>
   </div>
   </div>
 
