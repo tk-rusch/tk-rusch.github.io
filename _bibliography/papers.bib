@@ -24,6 +24,10 @@ dependencies.},
 
 @article{rusch2021coupled,
 abbr= {ICLR},
+price={Oral},
+abstract={Circuits of biological neurons, such as in the functional parts of the brain can be modeled as networks of coupled oscillators. Inspired by the ability of these systems to express a rich set of outputs while keeping (gradients of) state variables bounded, we propose a novel architecture for recurrent neural networks. Our proposed RNN is based on a time-discretization of a system of second-order ordinary differential equations, modeling networks of controlled nonlinear oscillators. We prove precise bounds on the gradients of the hidden states, leading to the mitigation of the exploding and vanishing gradient problem for this RNN. Experiments show that the proposed RNN is comparable in performance to the state of the art on a variety of benchmarks, demonstrating the potential of this architecture to provide stable and accurate RNNs for processing complex sequential data.},
+  pdf={https://openreview.net/pdf?id=F3s69XzWOia},
+  code={https://github.com/tk-rusch/coRNN},
   title={Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies},
   author={Rusch, T. Konstantin and Mishra, Siddhartha},
   journal={The 9th International Conference on Learning Representations.},
@@ -32,6 +36,14 @@ abbr= {ICLR},
 
 @article{mishra2021enhancing,
 abbr= {SINUM},
+abstract={We propose a deep supervised learning algorithm based on low-discrepancy sequences as the training
+set. By a combination of theoretical arguments and extensive numerical experiments we demonstrate
+that the proposed algorithm significantly outperforms standard deep learning algorithms that are
+based on randomly chosen training data, for problems in moderately high dimensions. The proposed
+algorithm provides an efficient method for building inexpensive surrogates for many underlying maps
+in the context of scientific computing.},
+pdf={https://arxiv.org/pdf/2005.12564.pdf},
+code={https://github.com/tk-rusch/Deep_QMC_sampling},
   title={Enhancing accuracy of deep learning algorithms by training with low-discrepancy sequences},
   author={Mishra, Siddhartha and Rusch, T. Konstantin},
   journal={SIAM Journal on Numerical Analysis.},
@@ -44,6 +56,9 @@ abbr= {SINUM},
 
 @article{longo2020higher,
 abbr= {SISC},
+abstract={We present a novel algorithmic approach and an error analysis leveraging Quasi-Monte Carlo points for training deep neural network (DNN) surrogates of Data-to-Observable (DtO) maps in engineering design. Our analysis reveals higher-order consistent, deterministic choices of training points in the input data space for deep and shallow Neural Networks with holomorphic activation functions such as tanh. These novel training points are proved to facilitate higher-order decay (in terms of the number of training samples) of the underlying generalization error, with consistency error bounds that are free from the curse of dimensionality in the input data space, provided that DNN weights in hidden layers satisfy certain summability conditions. We present numerical experiments for DtO maps from elliptic and parabolic PDEs with uncertain inputs that confirm the theoretical analysis.},
+pdf={https://arxiv.org/pdf/2009.02713.pdf},
+code={https://github.com/tk-rusch/DL-HoQMC},
   title={Higher-order Quasi-Monte Carlo Training of Deep Neural Networks},
   author={Longo, Marcello and Mishra, Siddhartha and Rusch, T. Konstantin and Schwab, Christoph},
   journal={To appear in SIAM Journal on Scientific Computing.},
@@ -52,6 +67,27 @@ abbr= {SISC},
 
 @article{rusch2018reproducing,
 abbr= {ASME},
+abstract={In the conceptual and preliminary aircraft design phase the
+Free-Form Deformation (FFD) is one of various parametrization
+schemes to define the geometry of an engine’s nacelle. This paper
+presents a method that is able to create a C2 continuous periodic
+approximation of existing reference nacelles with the B-spline
+based FFD, which is a generalization of the classical FFD. The
+basic principle of this method is to start with a rotational symmetric B-spline approximation of the reference nacelle, which is
+subsequently deformed with a FFD grid that is placed around
+the initial geometry. A method is derived that computes the displacement of the FFD grid points, such that the deformed nacelle
+approximates the reference nacelle with minimal deviations. As
+this turns out to be a linear inverse problem, it can be solved with
+a linear least squares fit. To avoid overfitting effects – like degenerative FFD grids which imply excessive local deformations
+– the inverse problem is regularized with the Tikhonov approach.
+The NASA CRM model and the IAE V2500 engine have been selected as reference geometries. Both resemble nacelles that are
+typically found on common aircraft models and both deviate sufficiently from the rotational symmetry. It is demonstrated that the
+mean error of the approximation decreases with an increase of
+the number of FFD grid points and how the regularization affects
+these results. Finally, the B-spline based FFD with the classical
+Bernstein based FFD are compared for both models. The results conceptually prove the usability of the FFD approach for
+the construction of nacelle geometries in the preliminary aircraft
+design phase.},
   title={Reproducing Existing Nacelle Geometries With the Free-Form Deformation Parametrization},
   author={Rusch, T. Konstantin and Siggel, Martin and Becker, Richard-Gregor},
   journal={ASME Turbo Expo: Power for Land, Sea, and Air.},

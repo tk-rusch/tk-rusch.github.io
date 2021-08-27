@@ -381,8 +381,8 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-light;
-    border-top: 1px solid $grey-color-light;
+    color: $grey-color;
+    border-top: 1px solid $grey-color;
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
@@ -405,6 +405,27 @@ footer.sticky-bottom {
           padding-right: 1rem;
           a {
             color: white;
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+        .award {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
+        }
+      }
+      .price {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+        price {
+          display: inline-block;
+          color: blue;
+          background-color: grey;
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
+          a {
+            color: blue;
             &:hover {
               text-decoration: none;
             }
