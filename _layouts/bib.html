@@ -2,8 +2,8 @@
 ---
 
 <div class="row">
-	<div class="outer">
-  <div class="col-sm-2 abbr">
+	<div class="col-sm-2 outer">
+  <div class="abbr">
   {% if entry.abbr %}
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
@@ -12,7 +12,7 @@
     {% endif %}
   {% endif %}
   </div>
-  <div class="col-sm-2 price">
+  <div class="price">
   {% if entry.price %}
     {% if site.data.venues[entry.price] %}
     <price class="badge"><a href="{{site.data.venues[entry.price].url}}" target="_blank">{{entry.price}}</a></price>
@@ -89,6 +89,10 @@
       {% endif %}
       </div>
     {% endif %}
+    
+    <div class="title">
+        {{entry.long_price}}
+      </div>
 
     <div class="links">
     {% if entry.abstract %}

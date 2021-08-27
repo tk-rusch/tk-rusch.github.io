@@ -439,6 +439,10 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
       }
+      .long_price {
+        color: $blue-color-dark; 
+        font-weight: bolder;
+      }
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
