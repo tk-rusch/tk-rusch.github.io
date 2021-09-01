@@ -25,3 +25,6 @@ using physical priors to solve scientific problems.
 <br>
 Before I started my PhD at ETH Zurich, I obtained my Master's degree in computational applied mathematics at 
 **The University of Edinburgh**, and before that I finished my Bachelor’s degree in mathematics at the **University of Bonn**. 
+
+<p><strong>Contact</strong>:  <span>konstantin.rusch [at] sam.math.ethz.ch</span></p>
+<br>
