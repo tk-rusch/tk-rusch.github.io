@@ -10,6 +10,7 @@ nav: true
 ### 2022
 
 * 31.05.2022: Networks seminars, Mathematical Insitute, **University of Oxford**, Oxford, UK
+* 25.04.2022: <a href="https://iclr.cc/virtual/2022/spotlight/6412"> Spotlight presenation</a>, **ICLR 2022**, Virtual
 * 12.04.2022: Invited talk in minisymposium, **SIAM UQ Conference**, Atlanta, US
 * 31.03.2022: Research seminar, **Twitter research UK**, London, UK
 * 07.03.2022: Graduate Colloquium, Department of Mathematics, **ETH Zurich**, Zurich, Switzerland
