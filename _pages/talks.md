@@ -8,7 +8,7 @@ nav: true
 
 
 ### 2022
-* 12.04.2022: Invited talk, Group of Jure Leskovec, **Stanford University**, Stanford, US
+* 23.08.2022: Invited talk, Group of Jure Leskovec, **Stanford University**, Stanford, US
 * 19.07.2022: Poster presentation, **ICML 2022**
 * 28.06.2022: <a href="https://www.youtube.com/watch?v=YIhNLmbUBp4&feature=emb_logo"> Invited talk </a>, 
 **LoGaG: Learning on Graphs and Geometry Reading Group**
