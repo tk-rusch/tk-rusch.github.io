@@ -12,7 +12,7 @@ nav: true
 * 19.07.2022: Poster presentation, **ICML 2022**
 * 28.06.2022: <a href="https://www.youtube.com/watch?v=YIhNLmbUBp4&feature=emb_logo"> Invited talk </a>, 
 **LoGaG: Learning on Graphs and Geometry Reading Group**
-* 31.05.2022: Networks seminars, Mathematical Insitute, **University of Oxford**, Oxford, UK
+* 31.05.2022: Networks seminars, Mathematical Institute, **University of Oxford**, Oxford, UK
 * 25.04.2022: <a href="https://iclr.cc/virtual/2022/spotlight/6412"> Spotlight presentation</a>, **ICLR 2022**, Virtual
 * 12.04.2022: Invited talk in minisymposium, **SIAM UQ Conference**, Atlanta, US
 * 31.03.2022: Research seminar, **Twitter research UK**, London, UK
@@ -23,6 +23,6 @@ nav: true
 <a href=""> </a>
 * 19.07.2021: <a href="https://icml.cc/virtual/2021/poster/10541"> Poster presentation </a>, **ICML 2021**, Virtual
 * 17.05.2021: <a href="https://twimlai.com/learning-long-time-dependencies-with-rnns-w-konstantin-rusch/"> Podcast interview </a>, **TWIML AI**
-* 03.05.2021: <a href="https://iclr.cc/virtual/2021/oral/3381"> Oral presenation</a>, **ICLR 2021**, Virtual
+* 03.05.2021: <a href="https://iclr.cc/virtual/2021/oral/3381"> Oral presentation</a>, **ICLR 2021**, Virtual
 * 05.03.2021: Invited talk in minisymposium, **SIAM CSE Conference**, Virtual
 
