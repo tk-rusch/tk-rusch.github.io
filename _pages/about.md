@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD candidate at <a href="https://math.ethz.ch/sam">Seminar for Applied Mathematics (SAM) of ETH Zurich</a>.
+description: Machine learning PhD candidate at ETH Zurich and UC Berkeley.
 
 profile:
   align: right
@@ -13,15 +13,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is T. Konstantin Rusch and I'm a PhD student in applied mathematics at **ETH Zurich**, 
-supervised by <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html"> Siddhartha Mishra </a>.
-<br>
-My research focuses on physics-based machine learning, where I'm interested in both, using physical priors to 
-construct new methods which can be applied in classical machine learning domains (e.g. time-series prediction, 
-speech recognition or NLP), as well as 
-leveraging machine learning methods to solve scientific problems (e.g. solving physical systems modeled by PDEs). 
-The goal of my research is to combine both directions by constructing new state-of-the-art machine learning methods 
-using physical priors to solve scientific problems. 
+My name is T. Konstantin Rusch and I'm a PhD student in Applied Mathematics at **ETH Zurich**, supervised by <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html"> Prof. Dr. Siddhartha Mishra </a>, 
+with a second affiliation at the EECS Department at **UC Berkeley**, supervised by <a href="https://www.stat.berkeley.edu/~mmahoney/"> Prof. Dr. Michael Mahoney </a>.
+My main research interest is in combining physics with machine learning. 
+Thereby, I focus on physics-inspired machine learning, which can be described as leveraging structure of physical systems to construct novel machine learning algorithms with a better inductive bias. 
+Moreover, I work on advancing methods from numerical analysis with machine learning to solve problems in computational science and engineering.
 <br>
 Before I started my PhD at ETH Zurich, I obtained my Master's degree in computational applied mathematics at 
 **The University of Edinburgh**, and before that I finished my Bachelor’s degree in mathematics at the **University of Bonn**. 
