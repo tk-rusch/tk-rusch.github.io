@@ -12,7 +12,6 @@ nav: true
 * 01.03.2023: Invited talk in minisymposium, **SIAM CSE**, Amsterdam, NL
 
 ### 2022
-* 02.12.2022: Invited talk, **e-Seminar on Scientific Machine Learning**
 * 01.11.2022: Invited talk, **Stanford University**, Stanford, US
 * 18.10.2022: Invited talk, **CSAIL, MIT**, Boston, US
 * 23.08.2022: Invited talk, **Stanford University**, Stanford, US
