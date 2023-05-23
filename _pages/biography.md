@@ -10,16 +10,16 @@ nav: true
 ### Education
 
 
-* 2019-2022: **ETH Zurich**, *PhD student in Applied Mathematics*
-	+ Supervised by <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html"> Prof. Dr. Siddhartha Mishra </a>
-	+ Research focus: Physics-based machine learning
+* 2019-2022: **ETH Zurich (+ UC Berkeley)**, *PhD student in Machine Learning / Applied Mathematics*
+	+ 1st supervisor (ETH Zurich): <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html"> Prof. Dr. Siddhartha Mishra </a>
+	+ 2nd supervisor (UC Berkeley): <a href="https://www.stat.berkeley.edu/~mmahoney/"> Prof. Dr. Michael Mahoney </a>
 * 2018-2019: **The University of Edinburgh**, *MSc in Computational Applied Mathematics*
 * 2014-2018: **University of Bonn**, *BSc in Mathematics*
 
 
 ### Work experience
-
-* since 2021: **Seminar for Applied Mathematics at ETH Zurich**, *Head assistant*
+* 2022: **ICSI + UC Berkeley**, *Visiting scholar*
+* 2021-2022: **Seminar for Applied Mathematics at ETH Zurich**, *Head assistant*
 	+ Managing a group of ∼30 PhD students and post-docs
 * 2018-2019: **German Aerospace Center (DLR)**, *Researcher* 
 	+ Independent part-time research on remote in Edinburgh
