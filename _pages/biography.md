@@ -20,16 +20,14 @@ nav: true
 ### Work experience
 * 2022: **ICSI + UC Berkeley**, *Visiting scholar*
 * 2021-2022: **Seminar for Applied Mathematics at ETH Zurich**, *Head assistant*
-	+ Managing a group of ∼30 PhD students and post-docs
-* 2018-2019: **German Aerospace Center (DLR)**, *Researcher* 
-	+ Independent part-time research on remote in Edinburgh
-	+ Working on memory-efficient machine learning methods
-
-
-* 2017-2018: **German Aerospace Center (DLR)**, *Student researcher*
-	+ Research-oriented position in the field of computational geometry and numerical algorithms at the Institute of High-Performance Computing
-	+ Contribution to open-source software
-
+	+ Managing a group of ∼30 PhD students and postdoctoral researchers. 
+	Responsibilities include distributing the teaching load among all employees, 
+	organise PhD applications, hire teaching assistants as well as being 
+	the point of contact for the department.
+* 2017-2019: **German Aerospace Center (DLR)**, *Student researcher* 
+	+ Research-oriented position in the field of memory-efficient machine learning methods, 
+	computational geometry, and numerical algorithms at 
+	the High-Performance Computing group (Institute of Software Technology).
 * 2016-2017: **Institute for Discrete Mathematics Bonn**, *Student assistant*
 * 2015-2016: **Institute for Numerical Simulation Bonn**, *Intern*
 
