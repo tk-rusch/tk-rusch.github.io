@@ -7,6 +7,7 @@ nav: true
 ---
 
 ### 2023
+* 02.05.2023: Poster presentation, **ICLR 2023**, Kigali, RWND
 * 02.03.2023: Invited talk, **Microsoft Research**, Amsterdam, NL
 * 01.03.2023: Invited talk in minisymposium, **SIAM CSE**, Amsterdam, NL
 
