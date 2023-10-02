@@ -7,6 +7,8 @@ nav: true
 ---
 
 ### 2023
+* 08.11.2023: Invited talk, **University of Edinburgh**, Edinburgh, UK
+* 21.08.2023: Invited talk, **LoGaG: Learning on Graphs and Geometry Reading Group**
 * 02.05.2023: Poster presentation, **ICLR 2023**, Kigali, RWND
 * 02.03.2023: Invited talk, **Microsoft Research**, Amsterdam, NL
 * 01.03.2023: Invited talk in minisymposium, **SIAM CSE**, Amsterdam, NL
