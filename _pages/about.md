@@ -13,8 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I recently defended my doctoral dissertation in Machine Learning / Applied Mathematics at **ETH Zurich**.
-I was advised by <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html">Siddhartha Mishra</a>. 
+I recently defended my doctoral dissertation in Machine Learning / Applied Mathematics at **ETH Zurich**, advised by <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html">Siddhartha Mishra</a>. 
 Moreover, during my PhD studies I had a second affiliation at the EECS Department at **UC Berkeley**, advised by <a href="https://www.stat.berkeley.edu/~mmahoney/">Michael Mahoney</a>.
 
 <br>
