@@ -10,15 +10,15 @@ nav: true
 ### Education
 
 
-* since 2019: **ETH Zurich (+ UC Berkeley)**, *PhD student in Machine Learning / Applied Mathematics*
+* 2019-2023: **ETH Zurich (+ UC Berkeley)**, *PhD in Machine Learning / Applied Mathematics*
 	+ 1st supervisor (ETH Zurich): <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html"> Prof. Dr. Siddhartha Mishra </a>
 	+ 2nd supervisor (UC Berkeley): <a href="https://www.stat.berkeley.edu/~mmahoney/"> Prof. Dr. Michael Mahoney </a>
-* 2018-2019: **The University of Edinburgh**, *MSc in Computational Applied Mathematics*
+* 2018-2019: **University of Edinburgh**, *MSc in Computational Applied Mathematics*
 * 2014-2018: **University of Bonn**, *BSc in Mathematics*
 
 
 ### Work experience
-* 2022: **ICSI + UC Berkeley**, *Visiting scholar*
+* 2022: **ICSI + UC Berkeley**, *Visiting PhD researcher*
 * 2021-2022: **Seminar for Applied Mathematics at ETH Zurich**, *Head assistant*
 	+ Managing a group of ∼30 PhD students and postdoctoral researchers. 
 	Responsibilities include distributing the teaching load among all employees, 
