@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Incoming postdoctoral researcher at **MIT**
+description: Incoming postdoctoral researcher at <a href="https://www.mit.edu/">MIT</a>.
 
 profile:
   align: right
