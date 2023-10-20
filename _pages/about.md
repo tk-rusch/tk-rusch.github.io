@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Incoming postdoctoral researcher at <a href="https://www.csail.mit.edu/">CSAIL, MIT</a>.
+description: Incoming postdoctoral researcher at **MIT**.
 
 profile:
   align: right
