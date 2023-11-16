@@ -11,7 +11,7 @@ nav: true
 
 
 * 2019-2023: **ETH Zurich (+ UC Berkeley)**, *PhD in Machine Learning / Applied Mathematics*
-	+ 1st supervisor (ETH Zurich): <a href="https://math.ethz.ch/sam/the-institute/people/siddhartha-mishra.html"> Prof. Dr. Siddhartha Mishra </a>
+	+ 1st supervisor (ETH Zurich): <a href="https://camlab.ethz.ch/the-group/group-head.html"> Prof. Dr. Siddhartha Mishra </a>
 	+ 2nd supervisor (UC Berkeley): <a href="https://www.stat.berkeley.edu/~mmahoney/"> Prof. Dr. Michael Mahoney </a>
 * 2018-2019: **University of Edinburgh**, *MSc in Computational Applied Mathematics*
 * 2014-2018: **University of Bonn**, *BSc in Mathematics*
