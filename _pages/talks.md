@@ -7,6 +7,7 @@ nav: true
 ---
 
 ### 2023
+* 12.12.2023: Poster presentation, **NeurIPS 2023**, New Orleans, US
 * 16.11.2023: Invited talk, **University of Oxford**, Oxford, UK
 * 08.11.2023: Invited talk, **University of Edinburgh**, Edinburgh, UK
 * 24.10.2023: Invited talk, **Heidelberg University**, Heidelberg, GER

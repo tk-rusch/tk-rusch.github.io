@@ -18,6 +18,7 @@ nav: true
 
 
 ### Work experience
+* 2023: **University of Oxford**, *Visiting postdoctoral researcher*
 * 2022: **ICSI + UC Berkeley**, *Visiting PhD researcher*
 * 2021-2022: **Seminar for Applied Mathematics at ETH Zurich**, *Head assistant*
 	+ Managing a group of ∼30 PhD students and postdoctoral researchers. 
@@ -28,8 +29,6 @@ nav: true
 	+ Research-oriented position in the field of memory-efficient machine learning methods, 
 	computational geometry, and numerical algorithms at 
 	the High-Performance Computing group (Institute of Software Technology).
-* 2016-2017: **Institute for Discrete Mathematics Bonn**, *Student assistant*
-* 2015-2016: **Institute for Numerical Simulation Bonn**, *Intern*
 
 
 ### Award / Scholarship
