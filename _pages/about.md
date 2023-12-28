@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Incoming postdoctoral researcher at <a href="https://www.mit.edu/">MIT</a>.
+description: Postdoctoral researcher at <a href="https://www.mit.edu/">MIT</a>.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I recently finished a PhD in Machine Learning / Applied Mathematics at **ETH Zurich**, advised by <a href="https://camlab.ethz.ch/the-group/group-head.html">Siddhartha Mishra</a>. 
+I finished a PhD in Machine Learning / Applied Mathematics at **ETH Zurich**, advised by <a href="https://camlab.ethz.ch/the-group/group-head.html">Siddhartha Mishra</a>. 
 Moreover, during my PhD studies I had a second affiliation at the EECS Department at **UC Berkeley**, advised by <a href="https://www.stat.berkeley.edu/~mmahoney/">Michael Mahoney</a>.
 
 <br>
