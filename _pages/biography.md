@@ -18,6 +18,7 @@ nav: true
 
 
 ### Work experience
+* Since 01/2024: **Massachusetts Institute of Technology**, *Postdoctoral researcher*
 * 2023: **University of Oxford**, *Visiting postdoctoral researcher*
 * 2022: **ICSI + UC Berkeley**, *Visiting PhD researcher*
 * 2021-2022: **Seminar for Applied Mathematics at ETH Zurich**, *Head assistant*
