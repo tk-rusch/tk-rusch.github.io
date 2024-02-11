@@ -18,5 +18,13 @@ In 2023, I finished a PhD in Machine Learning / Applied Mathematics at **ETH Zur
 Moreover, during my PhD studies I had a second affiliation at the EECS Department at **UC Berkeley**, advised by <a href="https://www.stat.berkeley.edu/~mmahoney/">Michael Mahoney</a>.
 
 <br>
+My main research interest is in combining physics with machine learning. 
+Thereby, I focus on **physics-inspired machine learning**, which can be described 
+as leveraging structure from physical systems to construct novel machine 
+learning methods with better inductive biases. Additionally, I work 
+on combining methods from numerical analysis with machine learning 
+to solve problems in computational science and engineering.
+
+<br>
 <p><strong>Contact</strong>:  <span>tkrusch [at] mit.edu</span></p>
 <br>
