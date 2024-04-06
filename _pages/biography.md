@@ -11,14 +11,15 @@ nav: true
 
 
 * 2019-2023: **ETH Zurich (+ UC Berkeley)**, *PhD in Machine Learning / Applied Mathematics*
-	+ 1st supervisor (ETH Zurich): <a href="https://camlab.ethz.ch/the-group/group-head.html"> Prof. Dr. Siddhartha Mishra </a>
-	+ 2nd supervisor (UC Berkeley): <a href="https://www.stat.berkeley.edu/~mmahoney/"> Prof. Dr. Michael Mahoney </a>
+	+ 1st advisor (ETH Zurich): <a href="https://camlab.ethz.ch/the-group/group-head.html"> Prof. Dr. Siddhartha Mishra </a>
+	+ 2nd advisor (UC Berkeley): <a href="https://www.stat.berkeley.edu/~mmahoney/"> Prof. Dr. Michael Mahoney </a>
 * 2018-2019: **University of Edinburgh**, *MSc in Computational Applied Mathematics*
 * 2014-2018: **University of Bonn**, *BSc in Mathematics*
 
 
 ### Work experience
-* Since 01/2024: **Massachusetts Institute of Technology**, *Postdoctoral researcher*
+* Since Jan 2024: **Massachusetts Institute of Technology**, *Postdoctoral researcher*
+	+ PI: <a href="https://www.csail.mit.edu/person/daniela-rus"> Prof. Dr. Daniela Rus </a>
 * 2023: **University of Oxford**, *Visiting postdoctoral researcher*
 * 2022: **ICSI + UC Berkeley**, *Visiting PhD researcher*
 * 2021-2022: **Seminar for Applied Mathematics at ETH Zurich**, *Head assistant*
