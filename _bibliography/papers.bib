@@ -28,6 +28,38 @@ pdf={https://arxiv.org/pdf/2306.03589.pdf},
   abstract={Coupled oscillators are being increasingly used as the basis of machine learning (ML) architectures, for instance in sequence modeling, graph representation learning and in physical neural networks that are used in analog ML devices. We introduce an abstract class of neural oscillators that encompasses these architectures and prove that neural oscillators are universal, i.e, they can approximate any continuous and casual operator mapping between time-varying functions, to desired accuracy. This universality result provides theoretical justification for the use of oscillator based ML systems. The proof builds on a fundamental result of independent interest, which shows that a combination of forced harmonic oscillators with a nonlinear read-out suffices to approximate the underlying operators.}
 }
 
+@article{thesis,
+  abbr= {PhD thesis},
+  pdf={https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/637340/1/dissertation.pdf},
+  author = {Rusch, T. Konstantin},
+  title = {Physics-inspired Machine Learning},  
+  year = {2023},
+  journal={PhD thesis},
+  abstract={Physics-inspired machine learning can be seen as incorporating structure from physical systems (e.g.,
+given by ordinary or partial differential equations) into machine learning methods to obtain models with
+better inductive biases. In this thesis, we provide several of the earliest examples of such methods in
+the fields of sequence modelling and graph representation learning. We subsequently show that physicsinspired inductive biases can be leveraged to mitigate important and central issues in each particular
+field. More concretely, we demonstrate that systems of coupled nonlinear oscillators and Hamiltonian
+systems lead to recurrent sequence models that are able to process sequential interactions over long
+time scales by mitigating the exploding and vanishing gradients problem. Additionally, we rigorously
+prove that neural systems of oscillators are universal approximators for continuous and causal operators.
+Moreover, we show that sequence models derived from multiscale dynamical systems not only mitigate
+the exploding and vanishing gradients problem (and are thus able to learn long-term dependencies), but
+equally importantly yield expressive models for learning on (real-world) multiscale data. We further show
+the impact of physics-inspired approaches on graph representation learning. In particular, systems of
+graph-coupled nonlinear oscillators denote a powerful framework for learning on graphs that allows for
+stacking many graph neural network (GNN) layers on top of each other. Thereby, we prove that these
+systems mitigate the oversmoothing issue in GNNs, where node features exponentially converge to the
+same constant node vector for increasing number of GNN layers. Finally, we propose to incorporate
+multiple rates that are inferred from the underlying graph data into the message-passing framework of
+GNNs. Moreover, we leverage the graph gradient modulated through gating functions to obtain multiple
+rates that automatically mitigate the oversmoothing issue. We extensively test all proposed methods on a
+variety of versatile synthetic and real-world datasets, ranging from image recognition, speech recognition,
+natural language processing (NLP), medical applications, and scientific computing for sequence models,
+to citation networks, computational chemistry applications, and article and website networks for graph
+learning models.}
+  }
+
 @article{os_survey,
   abbr= {arXiv},
   pdf={https://arxiv.org/pdf/2303.10993.pdf},
