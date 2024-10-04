@@ -6,6 +6,11 @@ description:
 nav: true
 ---
 
+### 2024
+* 27.05.2023: Invited talk, **MILA**, Montreal, CA
+* 06.03.2024: Invited talk, **Max Planck Institute for Intelligent Systems**, Tuebingen, GER
+* 22.02.2024: Invited talk, **University of Pennsylvania**, Philadelphia, US
+
 ### 2023
 * 12.12.2023: Poster presentation, **NeurIPS 2023**, New Orleans, US
 * 16.11.2023: Invited talk, **University of Oxford**, Oxford, UK
