@@ -1,3 +1,23 @@
+@article{linoss,
+  abbr= {arXiv},
+  pdf={https://arxiv.org/pdf/2410.03943},
+  title={Oscillatory State-Space Models},
+  author={Rusch, T. Konstantin and Rus, Daniela},  
+  year = {2024},
+  journal={arXiv preprint},
+  abstract={We propose Linear Oscillatory State-Space models (LinOSS) for efficiently learning on long sequences. Inspired by cortical dynamics of biological neural networks, we base our proposed LinOSS model on a system of forced harmonic oscillators. A stable discretization, integrated over time using fast associative parallel scans, yields the proposed state-space model. We prove that LinOSS produces stable dynamics only requiring nonnegative diagonal state matrix. This is in stark contrast to many previous state-space models relying heavily on restrictive parameterizations. Moreover, we rigorously show that LinOSS is universal, i.e., it can approximate any continuous and causal operator mapping between time-varying functions, to desired accuracy. In addition, we show that an implicit-explicit discretization of LinOSS perfectly conserves the symmetry of time reversibility of the underlying dynamics. Together, these properties enable efficient modeling of long-range interactions, while ensuring stable and accurate long-horizon forecasting. Finally, our empirical results, spanning a wide range of time-series tasks from mid-range to very long-range classification and regression, as well as long-horizon forecasting, demonstrate that our proposed LinOSS model consistently outperforms state-of-the-art sequence models. Notably, LinOSS outperforms Mamba by nearly 2x and LRU by 2.5x on a sequence modeling task with sequences of length 50k.}
+  }
+
+@article{mpmc4prm,
+  abbr= {arXiv},
+  pdf={https://arxiv.org/pdf/2410.03909},
+  title={Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo},
+  author={Chahine, Makram and Rusch, T. Konstantin and Patterson, Zach J and Rus, Daniela},
+  year = {2024},
+  journal={arXiv preprint},
+  abstract={Sampling-based motion planning methods, while effective in high-dimensional spaces, often suffer from inefficiencies due to irregular sampling distributions, leading to suboptimal exploration of the configuration space. In this paper, we propose an approach that enhances the efficiency of these methods by utilizing low-discrepancy distributions generated through Message-Passing Monte Carlo (MPMC). MPMC leverages Graph Neural Networks (GNNs) to generate point sets that uniformly cover the space, with uniformity assessed using the the $L_p$-discrepancy measure, which quantifies the irregularity of sample distributions. By improving the uniformity of the point sets, our approach significantly reduces computational overhead and the number of samples required for solving motion planning problems. Experimental results demonstrate that our method outperforms traditional sampling techniques in terms of planning efficiency.}
+  }
+
 @article{mpmc24,
 abbr= {PNAS},
 pdf={https://arxiv.org/pdf/2405.15059},
