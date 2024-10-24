@@ -18,6 +18,16 @@
   abstract={Sampling-based motion planning methods, while effective in high-dimensional spaces, often suffer from inefficiencies due to irregular sampling distributions, leading to suboptimal exploration of the configuration space. In this paper, we propose an approach that enhances the efficiency of these methods by utilizing low-discrepancy distributions generated through Message-Passing Monte Carlo (MPMC). MPMC leverages Graph Neural Networks (GNNs) to generate point sets that uniformly cover the space, with uniformity assessed using the the $L_p$-discrepancy measure, which quantifies the irregularity of sample distributions. By improving the uniformity of the point sets, our approach significantly reduces computational overhead and the number of samples required for solving motion planning problems. Experimental results demonstrate that our method outperforms traditional sampling techniques in terms of planning efficiency.}
   }
 
+@article{equi_multi_learn,
+  abbr= {arXiv},
+  pdf={https://arxiv.org/abs/2410.17878},
+  title={Relaxed Equivariance via Multitask Learning},
+  author={Elhag, Ahmed A. and Rusch, T. Konstantin and Di Giovanni, Francesco and Bronstein, Michael M},  
+  year = {2024},
+  journal={arXiv preprint},
+  abstract={Incorporating equivariance as an inductive bias into deep learning architectures to take advantage of the data symmetry has been successful in multiple applications, such as chemistry and dynamical systems. In particular, roto-translations are crucial for effectively modeling geometric graphs and molecules, where understanding the 3D structures enhances generalization. However, equivariant models often pose challenges due to their high computational complexity. In this paper, we introduce REMUL, a training procedure for approximating equivariance with multitask learning. We show that unconstrained models (which do not build equivariance into the architecture) can learn approximate symmetries by minimizing an additional simple equivariance loss. By formulating equivariance as a new learning objective, we can control the level of approximate equivariance in the model. Our method achieves competitive performance compared to equivariant baselines while being 10x faster at inference and 2.5x at training.}
+  }
+
 @article{mpmc24,
 abbr= {PNAS},
 pdf={https://arxiv.org/pdf/2405.15059},
