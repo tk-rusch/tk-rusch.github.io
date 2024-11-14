@@ -7,7 +7,9 @@ nav: true
 ---
 
 ### 2024
-* 27.05.2023: Invited talk, **MILA**, Montreal, CA
+* 07.12.2024: Invited talk, **TEDx MIT**, Cambridge, US
+* 13.11.2024: Invited talk, **MIT Mobility Lab**, Cambridge, US
+* 27.05.2024: Invited talk, **MILA**, Montreal, CA
 * 06.03.2024: Invited talk, **Max Planck Institute for Intelligent Systems**, Tuebingen, GER
 * 22.02.2024: Invited talk, **University of Pennsylvania**, Philadelphia, US
 
@@ -23,7 +25,7 @@ nav: true
 
 ### 2022
 * 01.11.2022: Invited talk, **Stanford University**, Stanford, US
-* 18.10.2022: Invited talk, **CSAIL, MIT**, Boston, US
+* 18.10.2022: Invited talk, **CSAIL, MIT**, Cambridge, US
 * 23.08.2022: Invited talk, **Stanford University**, Stanford, US
 * 19.07.2022: Poster presentation, **ICML 2022**
 * 28.06.2022: <a href="https://www.youtube.com/watch?v=YIhNLmbUBp4&feature=emb_logo"> Invited talk </a>, 
