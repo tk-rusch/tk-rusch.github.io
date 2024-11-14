@@ -19,7 +19,7 @@ nav: true
 * 10/2023: Invited talk, **Heidelberg University**, Heidelberg, GER
 * 08/2023: Invited talk, **LoGaG: Learning on Graphs and Geometry Reading Group**
 * 03/2023: Invited talk, **Microsoft Research**, Amsterdam, NL
-* 03/2023: Invited talk in minisymposium, **SIAM CSE**, Amsterdam, NL
+* 03/2023: Invited talk, **SIAM CSE**, Amsterdam, NL
 
 ### 2022
 * 11/2022: Invited talk, **Stanford University**, Stanford, US
