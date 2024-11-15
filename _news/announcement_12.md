@@ -5,5 +5,5 @@ inline: true
 ---
 
 **Invited TEDx Talk**: 
-I'll be giving an invited talk at <a href="https://tedx.mit.edu/">TEDx MIT</a> in 
+I got invited to give a talk at <a href="https://tedx.mit.edu/">TEDx MIT</a> in 
 December 2024 highlighting our recent advances in physics-inspired AI. 
