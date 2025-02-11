@@ -5,4 +5,4 @@ inline: true
 ---
 
 **Oral Paper at ICLR 2025**: 
-<a href="https://openreview.net/pdf?id=GRMfXcAAFh">Oscillatory State-Space Model</a> got accepted as an Oral paper at ICLR 2025. See you in Singapore. 
+Our paper on <a href="https://openreview.net/pdf?id=GRMfXcAAFh">Oscillatory State-Space Model</a> got accepted as an Oral at ICLR 2025. See you in Singapore. 
