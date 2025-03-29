@@ -25,9 +25,8 @@ I am a computational applied mathematician focused on AI research. Much of my wo
 from physics and neuroscience to develop novel state-of-the-art machine learning approaches. 
 My research is deeply grounded in computational science and statistics, providing rigorous 
 mathematical insights. 
-My main application area is in robotics; one of my goals is to achieve physical intelligence: AI that 
-understands physical laws and interacts intuitively with the physical world. This is a 
-crucial step toward transitioning AI from purely digital environments to real-world applications in robotics. 
+My applications primarily focus on the natural sciences and robotics, 
+with a particular emphasis on physical intelligence.
 <br>
 <p><strong>Contact</strong>:  <span>tkrusch [at] mit.edu</span></p>
 <br>
